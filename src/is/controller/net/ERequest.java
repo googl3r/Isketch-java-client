@@ -1,0 +1,5 @@
+package is.controller.net;
+
+public enum ERequest {
+	CONNECT, SET_LINE, SET_COLOR, SET_SIZE, GUESS, EXIT, TALK, REGISTER, LOGIN, SPECTATOR, SET_COURBE, CHEAT, PASS;
+}

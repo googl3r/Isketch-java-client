@@ -1,0 +1,3 @@
+Run avec :
+
+ant build && ant Main
